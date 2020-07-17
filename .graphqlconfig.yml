@@ -1,0 +1,15 @@
+projects:
+  adminpanel-dev:
+    schemaPath: src/graphql/schema.json
+    includes:
+      - src/graphql/**/*.js
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: javascript
+        generatedFileName: ''
+        docsFilePath: src/graphql
+        region: us-east-1
+        apiId: zfpe2oye25d4zax2i55ekrh37i
+        maxDepth: 2

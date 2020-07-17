@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-unicorntriviawebwork-dev-125644-authRole",
+            "UnauthRoleArn": "arn:aws:iam::401400841119:role/amplify-unicorntriviawebwork-dev-125644-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::401400841119:role/amplify-unicorntriviawebwork-dev-125644-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-unicorntriviawebwork-dev-125644-deployment",
+            "UnauthRoleName": "amplify-unicorntriviawebwork-dev-125644-unauthRole",
+            "StackName": "amplify-unicorntriviawebwork-dev-125644",
+            "StackId": "arn:aws:cloudformation:us-east-1:401400841119:stack/amplify-unicorntriviawebwork-dev-125644/566543b0-c2ce-11ea-97d2-0e65f7e0e97d",
+            "AmplifyAppId": "d1fioy0iyn1d8n"
+        }
+    }
+}
