@@ -1,1 +1,10 @@
-{}
+{
+	"auth": {
+		"unicorntriviawebwork274aa5fd": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

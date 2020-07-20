@@ -10,6 +10,13 @@
             "StackName": "amplify-unicorntriviawebwork-dev-125644",
             "StackId": "arn:aws:cloudformation:us-east-1:401400841119:stack/amplify-unicorntriviawebwork-dev-125644/566543b0-c2ce-11ea-97d2-0e65f7e0e97d",
             "AmplifyAppId": "d1fioy0iyn1d8n"
+        },
+        "categories": {
+            "auth": {
+                "unicorntriviawebwork274aa5fd": {
+                    "hostedUIProviderCreds": "[]"
+                }
+            }
         }
     }
 }

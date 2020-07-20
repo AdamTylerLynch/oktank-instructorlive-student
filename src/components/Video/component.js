@@ -6,7 +6,7 @@ class Video extends Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			src: 'https://d1mpc9fp5n1p3a.cloudfront.net/out/v1/26fcb1f201e744609188cdf416959023/index.m3u8'
+			src: 'https://nhjgg3zzdw75ca.data.mediastore.us-east-1.amazonaws.com/p/index.m3u8'
 		};
 	}
 
@@ -26,6 +26,8 @@ class Video extends Component {
 				this.player.play();
 			}).bind(this));
 		}
+
+
 	}
 
 	render(){
