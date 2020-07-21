@@ -1,9 +1,6 @@
 import React, { Component } from 'react';
 import { API, graphqlOperation, Auth, Hub } from 'aws-amplify';
-import { onCreateQuestion, onUpdateQuestion } from '../../graphql/subscriptions';
-import { createAnswer, updateAnswer } from '../../graphql/mutations';
-import winner from '../../images/winner.png';
-import loser from '../../images/loser.png';
+import { onCreateQuestion } from '../../graphql/subscriptions';
 import Video from '../Video';
 import Modal from '../Modal';
 import Chat from '../Chat';
